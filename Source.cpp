@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-
+	// display "hello world" on screen
 	cout << "hello world";
 
 }
